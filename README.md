@@ -30,6 +30,6 @@
   </a>
 </div>
 
----
+#### Github Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jayparm)]
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jayparm)](https://github.com/anuraghazra/github-readme-stats)
