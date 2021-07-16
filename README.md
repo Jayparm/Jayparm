@@ -29,7 +29,7 @@
     <img src="https://user-images.githubusercontent.com/59381835/92191346-676c5480-ee18-11ea-8240-e416eb1a5b5d.png" alt="YouTube Channel" width="80"/>
   </a>
 </div>
-
+---
 #### Github Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jayparm)]
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jayparm)](https://github.com/anuraghazra/github-readme-stats)
