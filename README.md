@@ -34,7 +34,7 @@
 ---
 
 #### Github Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jayparm&layout=compact)]
+https://raw.githubusercontent.com/Jayparm/github-stats/9c8f036b859b1fa1ee82075d3d935e6832e697b4/generated/overview.svg
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jayparm&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <a href="https://github.com/Jayparm/Chunks">
 
