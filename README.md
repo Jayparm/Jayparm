@@ -33,7 +33,7 @@
 
 ---
 
-#### Github Stats
+### Github Stats
 ![](https://github.com/Jayparm/github-stats/blob/master/generated/overview.svg)
 ![](https://github.com/Jayparm/github-stats/blob/master/generated/languages.svg)
 
