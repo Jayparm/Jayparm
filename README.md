@@ -21,21 +21,10 @@
 - <img alt="C#" width="14px" src="https://i.imgur.com/EjHy8p6.png" /> [Manjaro](https://manjaro.org/) Gnome (Linux)
 - <img alt="C#" width="18px" src="https://www.getmyos.com/app_public/files/t/1/2021/06/windows_11_logo_by_getmyos.png" /> Windows 11
 
----
-<div align="center">
-  <a href="https://discord.gg/9gSHNHQyM3" target="_blank">
-    <img src="https://user-images.githubusercontent.com/59381835/92191514-d649ad80-ee18-11ea-9bc4-e95c7a122a99.png" alt="Discord" width="80"/>
-  </a>
-  <a href="https://www.youtube.com/channel/UCW3jr6-LQ2OPBxFuzPiECcg" target="_blank">
-    <img src="https://user-images.githubusercontent.com/59381835/92191346-676c5480-ee18-11ea-8240-e416eb1a5b5d.png" alt="YouTube Channel" width="80"/>
-  </a>
-</div>
 
 ---
 
-/*### Github Stats
+### Github Stats
 ![](https://github.com/Jayparm/github-stats/blob/master/generated/overview.svg)
 ![](https://github.com/Jayparm/github-stats/blob/master/generated/languages.svg)
 
-
-*/
