@@ -28,3 +28,9 @@
 ![](https://github.com/Jayparm/github-stats/blob/master/generated/overview.svg)
 ![](https://github.com/Jayparm/github-stats/blob/master/generated/languages.svg)
 
+---
+### Jokes
+<!-- Markdown -->
+
+![Jokes Card](https://readme-jokes.vercel.app/api)
+
