@@ -25,3 +25,6 @@
 
 ## How to reach me?
 DM me on discord: Jayparm#0909
+
+## Github Stats
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jayparm)](https://github.com/anuraghazra/github-readme-stats)
