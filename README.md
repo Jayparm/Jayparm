@@ -23,6 +23,8 @@
 
 <img width="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png" /> NodeJS
 
+## Personal aspects
+Sports: Tennis🎾 | Football⚽ | Cricket 🏏
 ## How to reach me?
 DM me on discord: Jayparm#0909
 
