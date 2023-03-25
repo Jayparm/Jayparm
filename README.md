@@ -11,9 +11,12 @@ I'm a passonate Content Creator, Streamer & Programmer from the United Kingdom -
 
 ### My Best Projects
 
-<img align="center" src="https://jayparmgithubstats.vercel.app/api/pin?username=jayparm&repo=jayparm.github.io">
+<img align="center" src="https://jayparmgithubstats.vercel.app/api/pin?username=jayparm&repo=jayparm.github.io"/>
+
 ### My Most Used Langugages
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayparm&layout=compact"
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayparm&layout=compact"/>
+
 ### Github Stats:
 
 <img align="center" src="https://jayparmgithubstats.vercel.app/api?username=Jayparm&show_icons=true&layout-compact&theme=tokyonight&&hide_border=true&count_private=true&include_all_commits=true" alt="Jayparm Github Stats" /> 
