@@ -12,5 +12,5 @@ I'm a passonate Content Creator, Streamer & Programmer from the United Kingdom -
 
 ### Github Stats:
 
-<img align="center" src="jayparmgithubstats.vercel.app/api?username=Jayparm&show_icons=true&layout-compact&theme=tokyonight&&hide_border=true&count_private=true&include_all_commits=true" alt="Assassin-1234" /> 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Jayparm&theme=dark" alt="Assassin-1234" /> 
+<img align="center" src="jayparmgithubstats.vercel.app/api?username=Jayparm&show_icons=true&layout-compact&theme=tokyonight&&hide_border=true&count_private=true&include_all_commits=true" alt="Jayparm Github Stats" /> 
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Jayparm&theme=dark" alt="Jayparm Streak Stats" /> 
