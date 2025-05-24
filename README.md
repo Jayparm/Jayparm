@@ -1,6 +1,6 @@
 # Hello World!
 
-I'm a passonate Content Creator, Streamer & Programmer from the United Kingdom - I mainly enjoy streaming and playing games such as Apex Legends & Cyberpunk among many more. I have a few side projects that are mostly on my Github so feel free to view those. Thanks for viewing my profile!
+I'm a musician, hobby developer and Lighting/Sound technician! 
 
 ## languages I know:
        NEW TO DEV
